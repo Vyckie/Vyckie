@@ -12,7 +12,7 @@
   </div>
   
   <div>
-    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e7fcc34af70df0e382d1d1ea8a6eaccf.gif" width="110" height="100" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/4ad270e9e989b1c9e330bd9925b2f503.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   </div>
 <!--
 **Vyckie/Vyckie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
