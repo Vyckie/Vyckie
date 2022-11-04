@@ -3,7 +3,7 @@
 
 <h3 align="left"> Hello, I'm Vyckie, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"></h3>
 
-- <p>🌱 22y, I’m currently learning Front-End and Frameworks<br></p>
+- <p>🌱 22y, expanding knowledge in Front-End and Frameworks<br></p>
 - <p>💻 Skills: <strong>HTML5, CSS3, Javascript, Typescript, React Js, OO, MySQL, Bootstrap, Git/GitHub  </strong><br></p>
 
 <h4>📱 Social </h4>
@@ -14,7 +14,7 @@
 
 
 </div>
-   <br><br>
+   <br><br><br><br>
 <div>
  <a href="https://github.com/Vyckie/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vyckie&show_icons=true&theme=dark" style"max-width: 100%;" />
