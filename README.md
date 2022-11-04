@@ -1,17 +1,26 @@
-### Hello World! I am Vyckie! 👋
-<div align="center">
-  <a href="https://github.com/Vyckie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vyckie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyckie&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<img align="right" src="https://media.tenor.com/UscowQ5OPr0AAAAC/pc-computador.gif" max-width="300px" width="300px" align="right">
 
+
+<h3 align="left"> Hello, I'm Vyckie, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"></h3>
+
+- <p>🌱 22y, I’m currently learning Front-End and Frameworks<br></p>
+- <p>💻 Skills: <strong>HTML5, CSS3, Javascript, Typescript, React Js, OO, MySQL, Bootstrap, Git/GitHub  </strong><br></p>
+
+<h4>📱 Social </h4>
+
+<div>
   
-  
-  <div align="center">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/4ad270e9e989b1c9e330bd9925b2f503.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-  
-   <a href="https://www.linkedin.com/in/vyckie-s-3b3045211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/vyckie/)](https://www.linkedin.com/in/vyckie/)
+
+
+</div>
+   <br><br>
+<div>
+ <a href="https://github.com/Vyckie/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vyckie&show_icons=true&theme=dark" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyckie&layout=compact&theme=dark" style"max-width: 100%;" />
+ </a>
+</div>
 <!--
 **Vyckie/Vyckie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
